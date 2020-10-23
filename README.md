@@ -1,2 +1,3 @@
 # fe-happy-interview
-面试真题解析、汇总
+
+你好，我是szjxxy， 公众号「乘风破浪大前端」作者。 
