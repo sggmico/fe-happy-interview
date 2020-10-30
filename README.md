@@ -28,14 +28,10 @@
 2. tcp与udp
 
 ## 算法
-**已迁移至  [「 fe-happy-algo 」](https://github.com/szjxxy/fe-happy-algo) 🚀。 **
+已迁移至  [「 fe-happy-algo 」](https://github.com/szjxxy/fe-happy-algo) 🚀。
 
-
-
-------
-
-
-最后，如果想了解更多前端知识，欢迎扫码下方二维码，关注微信公众号：「乘风破浪大前端」。😊
+## 其他
+如果想了解更多前端知识，欢迎扫码下方二维码，关注微信公众号：「乘风破浪大前端」。😊
 
 ![](https://tva1.sinaimg.cn/large/0081Kckwly1gk2rjhye7dj3076076mxm.jpg)
 
