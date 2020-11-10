@@ -9,7 +9,7 @@
 ## 编程题
 
 1. [手写节流、防抖？](https://github.com/szjxxy/fe-happy-interview/issues/5)
-2. 手写 new 操作符实现
+2. [手写 new 操作符实现](https://github.com/szjxxy/fe-happy-interview/issues/6)
 3. 手写深拷贝、浅拷贝
 4. 手写setTimeout实现
 5. 手写async/await实现
