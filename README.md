@@ -6,11 +6,29 @@
 
 希望本库fans通过刷题 - 分类 - 总结。逐渐形成自己的知识体系，让学习变得轻松，变得有趣，最终实现自我增值。🚀
 
-## 编程题
+## 系统方案
 
-1. [手写节流、防抖？](https://github.com/szjxxy/fe-happy-interview/issues/5)
+1. web性能优化
+2. 异常监控
+3. web安全防御
+4. webpack构建与优化
+5. 自动化测试
+6. 浏览器跨域
+
+## 原理分析
+
+1. 浏览器事件循环
+2. promise原理
+3. vue原理
+4. vuex原理
+5. dom diff
+6. koa原理
+
+## 手写实现
+
+1. [手写节流(throttle)、防抖(debounce)](https://github.com/szjxxy/fe-happy-interview/issues/5)
 2. [手写 new 操作符实现](https://github.com/szjxxy/fe-happy-interview/issues/6)
-3. 手写深拷贝、浅拷贝
+3. [手写深拷贝、浅拷贝](https://github.com/szjxxy/fe-happy-interview/issues/7)
 4. 手写setTimeout实现
 5. 手写async/await实现
 6. 手写axios实现
