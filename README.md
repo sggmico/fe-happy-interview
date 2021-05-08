@@ -56,7 +56,7 @@
 
 ## 框架
 
-1. [vue](https://github.com/szjxxy/fe-happy-interview/blob/master/chapter/vue.md)
+1. [vue](https://github.com/szjxxy/fe-happy-interview/blob/master/vue/index.md)
 2. [React](https://github.com/szjxxy/fe-happy-interview/blob/master/chapter/react.md)
 
 ## 工程化
