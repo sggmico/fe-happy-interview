@@ -4,7 +4,58 @@
 
 本仓库旨在前端面试题方面做一些积累。希望其中的题目能给更多前端同学带来方便。
 
-希望本库fans通过刷题 - 分类 - 总结。逐渐形成自己的知识体系，让学习变得轻松，变得有趣，最终实现自我增值。🚀
+一起通过刷题 - 分类 - 总结。逐渐形成自己的知识体系，让学习变得轻松，变得有趣，最终实现自我增值。🚀
+
+## 框架
+
+### Vue
+
+1. [【Vue源码系列】：computed vs methods](https://github.com/szjxxy/fe-happy-interview/issues/9)
+2. [【Vue源码系列】：DOM-Diff](https://github.com/szjxxy/fe-happy-interview/issues/8)
+
+[更多](https://github.com/szjxxy/fe-happy-interview/blob/master/vue/index.md) 🚀
+
+## 手写实现
+
+1. [手写节流(throttle)、防抖(debounce)](https://github.com/szjxxy/fe-happy-interview/issues/5)
+2. [手写 new 操作符实现](https://github.com/szjxxy/fe-happy-interview/issues/6)
+3. [手写深拷贝、浅拷贝](https://github.com/szjxxy/fe-happy-interview/issues/7)
+4. [手写bind实现](https://github.com/szjxxy/fe-happy-interview/issues/4)
+5. [手写async/await实现](https://github.com/szjxxy/fe-happy-interview/issues/10)
+6. 手写setTimeout实现
+7. 手写一个发布-订阅模式
+8. 手写vue的双向数据绑定
+9. 手写Promise实现
+10. 手写call/apply实现
+11. 手写parseInt实现
+12. 数组去重、扁平化函数
+13. 实现一个add方法
+14. 用简洁代码实现indexOf方法
+15. 模拟实现一个localStroage
+
+[更多](https://github.com/szjxxy/fe-happy-interview/blob/master/chapter/code.md) 🚀
+
+## 浏览器
+
+1. 浏览器事件循环（Event Loop）
+
+## Node.js
+
+### koa.js
+
+
+
+## 工程化
+
+### webpack
+
+### git
+
+## 网络
+
+[http/https](https://github.com/szjxxy/fe-happy-interview/blob/master/chapter/http.md)
+
+1. tcp与udp
 
 ## 系统方案
 
@@ -15,59 +66,19 @@
 5. 自动化测试
 6. 浏览器跨域
 
-## 原理分析
-
-1. 浏览器事件循环
-2. promise原理
-3. vue原理
-4. vuex原理
-5. dom diff
-6. koa原理
-
-## 手写实现
-
-1. [手写节流(throttle)、防抖(debounce)](https://github.com/szjxxy/fe-happy-interview/issues/5)
-2. [手写 new 操作符实现](https://github.com/szjxxy/fe-happy-interview/issues/6)
-3. [手写深拷贝、浅拷贝](https://github.com/szjxxy/fe-happy-interview/issues/7)
-4. 手写setTimeout实现
-5. 手写async/await实现
-6. 手写axios实现
-7. 手写一个发布-订阅模式
-8. 手写vue的双向数据绑定
-9. 手写Promise实现
-10. 手写call/apply实现
-11. [手写bind实现](https://github.com/szjxxy/fe-happy-interview/issues/4)
-12. 手写parseInt实现
-13. 数组去重、扁平化函数
-14. 实现一个add方法
-15. 模板渲染
-16. 用简洁代码实现indexOf方法
-17. 实现一个方法，拆解URL参数中的queryString
-18. 模拟实现一个localStroage
-
-
-[更多](https://github.com/szjxxy/fe-happy-interview/blob/master/chapter/code.md) 🚀
-
 ## 基础
 
-1. [Html](https://github.com/szjxxy/fe-happy-interview/blob/master/chapter/html.md)
-2. [Css](https://github.com/szjxxy/fe-happy-interview/blob/master/chapter/css.md)
-3. [Javascript](https://github.com/szjxxy/fe-happy-interview/blob/master/chapter/javascript.md)
+### HTML
 
-## 框架
+[Html](https://github.com/szjxxy/fe-happy-interview/blob/master/chapter/html.md)
 
-1. [vue](https://github.com/szjxxy/fe-happy-interview/blob/master/vue/index.md)
-2. [React](https://github.com/szjxxy/fe-happy-interview/blob/master/chapter/react.md)
+### CSS
 
-## 工程化
+1. 设置一个Div垂直水平居中
 
-1. git
-2. [webpack](https://github.com/szjxxy/fe-happy-interview/blob/master/chapter/webpack.md)
+### Javascript
 
-## 网络
-
-1. [http/https](https://github.com/szjxxy/fe-happy-interview/blob/master/chapter/http.md)
-2. tcp与udp
+[Javascript](https://github.com/szjxxy/fe-happy-interview/blob/master/chapter/javascript.md)
 
 ## 算法
 已迁移至  [「 fe-happy-algo 」](https://github.com/szjxxy/fe-happy-algo) 🚀。
