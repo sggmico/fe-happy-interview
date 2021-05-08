@@ -4,4 +4,3 @@
 
 1. [【Vue源码系列】：computed vs methods](https://github.com/szjxxy/fe-happy-interview/issues/9)
 2. [【Vue源码系列】：DOM-Diff](https://github.com/szjxxy/fe-happy-interview/issues/8)
-
