@@ -26,7 +26,7 @@
 4. [手写bind实现](https://github.com/szjxxy/fe-happy-interview/issues/4)
 5. [手写async/await实现](https://github.com/szjxxy/fe-happy-interview/issues/10)
 6. 手写setTimeout实现
-7. 手写一个发布-订阅模式
+7. [手写一个发布-订阅模式](https://github.com/szjxxy/fe-happy-interview/issues/13)
 8. 手写vue的双向数据绑定
 9. 手写Promise实现
 10. 手写call/apply实现
