@@ -2,19 +2,21 @@
 
 你好，我是`SGG`， 公众号「乘风破浪大前端」作者。 
 
-本仓库旨在前端面试题方面做一些积累。希望其中的题目能给更多前端同学带来方便。
+本仓库旨在前端技术方面做一些积累，同时也希望能给更多前端同学带来方便。
 
-一起通过刷题 - 分类 - 总结。逐渐形成自己的知识体系，让学习变得轻松，变得有趣，最终实现自我增值。🚀
+在这里我们通过一起刷题、分类、总结。逐渐形成自己的知识体系，让学习变得轻松，变得有趣，最终实现自我增值。🚀
 
 ## 框架
 
 ### Vue2.0
 
-1. [【Vue2.0源码系列】：computed vs methods](https://github.com/szjxxy/fe-happy-interview/issues/9)
-2. [【Vue2.0源码系列】：DOM-Diff](https://github.com/szjxxy/fe-happy-interview/issues/8)
-3. [【Vue2.0源码系列】：响应式原理](https://github.com/szjxxy/fe-happy-interview/issues/11)
-4. [【Vue2.0源码系列】：虚拟DOM](https://github.com/szjxxy/fe-happy-interview/issues/12)
-5. 【Vue2.0源码系列】：模板编译
+1. [【Vue2.0源码系列】：响应式原理](https://github.com/szjxxy/fe-happy-interview/issues/11)
+2. [【Vue2.0源码系列】：虚拟DOM](https://github.com/szjxxy/fe-happy-interview/issues/12)
+3. [【Vue2.0源码系列】：DOM-Diff](https://github.com/szjxxy/fe-happy-interview/issues/8)
+4. 【Vue2.0源码系列】：模板编译
+5. [【Vue2.0源码系列】：computed vs methods](https://github.com/szjxxy/fe-happy-interview/issues/9)
+6. [【Vue开发实践】：讲真，Vue图片懒加载怎么做?](https://github.com/szjxxy/fe-happy-interview/issues/15)
+7. [【Vue开发实践】： 事件总线——EventBus —— 发布订阅模式](https://github.com/szjxxy/fe-happy-interview/issues/13)
 
 ### Vue3.0
 
@@ -89,12 +91,11 @@
 
 ## 交流
 
-如果觉得有用，顺便点个赞吧！你的支持是我最大的鼓励！
+如果觉得本仓库对你有帮助，**点赞**和**关注**不失联，你的支持是对笔者最大的鼓励！
 
-微信关注 “乘风破浪大前端”，发现更多有趣好文的前端知识和实战。
-
-「乘风破浪大前端」，微信公众号二维码。😊
-
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gk2rjhye7dj3076076mxm.jpg)
+微信关注 「 乘风破浪大前端 」公众号，发现更多有趣好玩的前端知识和实战。
 
 最后，关于本仓库如有任何意见或建议，欢迎留言讨论。
+
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gqfhs9sj53j30bo0bowf7.jpg)
+
