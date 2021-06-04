@@ -39,7 +39,7 @@
 11. 手写parseInt实现
 12. 数组去重、扁平化函数
 13. 实现一个add方法
-14. 用简洁代码实现indexOf方法
+14. [【手写】：indexOf() 实现](https://github.com/sggmico/fe-happy-interview/issues/16)
 15. 模拟实现一个localStroage
 
 [更多](https://github.com/szjxxy/fe-happy-interview/blob/master/chapter/code.md) 🚀
